@@ -11,4 +11,4 @@ s2s_ins: it is a seq2seq model using Reddit contents related to insurance. It fo
 - s2s_ins.ini: change parameters for model training
 - based on the mode (train or test) in s2s_ins.ini, run "python run.py" will either train the model or test the chatbot. For a reasonable trained model, it may take days for the perplexity to fall below 2.
 
-
+Reference: https://github.com/suriyadeepan/easy_seq2seq
